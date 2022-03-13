@@ -1,6 +1,6 @@
 ## Butt
 
-Go to [Crazy](https://github.com/sha-d0w/sha-d0w.github.io#crazy).
+Go to [Crazy](#crazy).
 
 ### Crazy
 
